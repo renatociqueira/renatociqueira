@@ -35,4 +35,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" width="52" alt="centos logo"  />
 </div>
 
-<img href="https://raw.githubusercontent.com/renatociqueira/renatociqueira/blob/output/snake.svg" alt="Snake animation" />
