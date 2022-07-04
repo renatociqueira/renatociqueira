@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Renato. 👋
 
 
-- 🔭 Atualmente trabalho com desenvolvimento backend e frontend.
+- 🔭 Atualmente trabalho com desenvolvimento web backend e frontend.
 - 📚 Estudando React Native.
 
 ###
